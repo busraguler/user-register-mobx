@@ -1,5 +1,5 @@
 # user-register-mobx
-State administration with mobx in user registration application
+Mobx statle leri yöneterek ile kullanıcı kayıt uygulaması
 
 Aşağıdaki mobx sürümü react native 0.57.5 sürümü ile uyumlu çalışıyor. Mobx yüklemeden önce kullandığınız react-native sürümü ile uyumlu olup olmadığını kontrol edin.
 
