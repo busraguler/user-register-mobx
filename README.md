@@ -27,8 +27,3 @@ package.json dosyasına aşağıdakileri ekleyin
   
   Sonra node üzerinden npm install yapıp projeyi run layın.
   
-Navigasyon için react-native-router-flux kullanabilirsiniz.
-  
-    npm install --save react-native-router-flux
-    
-Elementler için react-native elements https://react-native-training.github.io/react-native-elements/docs/getting_started.html bu site ile yükleme yapabilirsiniz
